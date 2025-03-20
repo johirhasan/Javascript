@@ -1,0 +1,1 @@
+Developed a Speed Typing Game using HTML, CSS, and JavaScript. The game challenges users to type words quickly and accurately within a time limit. Features include real-time scoring, countdown timer, dynamic word generation, and user feedback for an engaging experience.
